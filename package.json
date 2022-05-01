@@ -6,7 +6,7 @@
 	"main": "server.js",
 	"author": "Carlos valenzuela",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"scripts": {
 		"start": "node server.js"
 	},
